@@ -1,7 +1,7 @@
-### Hello! eu sou o Lucas Eduardo 👋
+### Hello! I´m Lucas Eduardo 👋
 
-- 🔭 Hoje eu estou cursando ciências da computação
-- 🌱 Eu estou estudando desenvolvimento web
+- 👨‍🎓 I'm studying computer science;
+- 🌱 Estudando java e python;
 - 📫 Contate-me no e-mail: lucasguima1704@gmail.com
 - 😄 Pronouns: ele/dele
 
@@ -10,7 +10,8 @@
   <img align="center" alt="Lucas-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Lucas-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Lucas-Gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
 <div><br>
