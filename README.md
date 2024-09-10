@@ -1,4 +1,5 @@
-![banner_linkdln](https://github.com/user-attachments/assets/dd68463c-c412-417c-bba5-e43201fc61a1)
+
+![banner_github](https://github.com/user-attachments/assets/07693032-3e57-45dd-a683-f5046fd80683)
 
 ### 👋 Olá!
 Sou Lucar Eduardo, um entusiasta da programação e desenvolvimento de software com uma paixão por resolver problemas complexos e aprender novas tecnologias. Tenho experiência em [linguagem c, desenv.web].
