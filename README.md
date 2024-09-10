@@ -2,7 +2,7 @@
 ![banner_github](https://github.com/user-attachments/assets/07693032-3e57-45dd-a683-f5046fd80683)
 
 ### 👋 Olá!
-Sou Lucar Eduardo, um entusiasta da programação e desenvolvimento de software com uma paixão por resolver problemas complexos e aprender novas tecnologias. Tenho experiência em [linguagem c, desenv.web].
+Sou Lucas Eduardo, estudante e aprendiz do mundo tecnológico. Faz 2 anos que entrei para esse ramo, e estou muito animado em compartilhar meu aprendizado aqui.
 
 ### 🎓 Formação e Interesses
 Atualmente, estou focado em aprimorar minhas habilidades em [Programação Orientada Objetos, Java, Python, Ciências de Dados], e estou constantemente explorando novos projetos que me desafiem a crescer profissionalmente. Estou no segundo ano do curso de Ciências da Computação.
