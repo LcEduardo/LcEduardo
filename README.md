@@ -1,5 +1,5 @@
 
-![banner_github](https://www.canva.com/design/DAF6nP0Lvyk/yhQxF1ydDrPdEYytCl88Qw/edit?utm_content=DAF6nP0Lvyk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![banner_github](LucasEduardo.png)
 
 ### 👋 Olá!
 Sou Lucas Eduardo, estudante e aprendiz do mundo tecnológico. Faz 2 anos que entrei para esse ramo, e estou muito animado em compartilhar meu aprendizado aqui.
